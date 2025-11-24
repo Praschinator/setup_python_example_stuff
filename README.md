@@ -21,3 +21,9 @@ then:
 ```
 pip install -r reqirements.txt
 ```
+
+
+to test if chromedriver rusn successfully, run: 
+´´´
+python ./testing_chromedriver.py
+´´´
